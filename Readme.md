@@ -1,7 +1,7 @@
 **To run Server side:**
-- npm install
+- npm instal (To install node modules)
 - nodemon app.js
 
 **To run Client side:**
-- npm install
+- npm install (To install node modules)
 - npm start
